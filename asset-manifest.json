@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/yuvalim/static/css/main.8abff518.chunk.css",
+    "main.js": "/yuvalim/static/js/main.bcb679c9.chunk.js",
+    "main.js.map": "/yuvalim/static/js/main.bcb679c9.chunk.js.map",
+    "runtime-main.js": "/yuvalim/static/js/runtime-main.baf2ff1a.js",
+    "runtime-main.js.map": "/yuvalim/static/js/runtime-main.baf2ff1a.js.map",
+    "static/js/2.a37a5020.chunk.js": "/yuvalim/static/js/2.a37a5020.chunk.js",
+    "static/js/2.a37a5020.chunk.js.map": "/yuvalim/static/js/2.a37a5020.chunk.js.map",
+    "index.html": "/yuvalim/index.html",
+    "precache-manifest.7e6680d986c7d7f9ba2dfe89738c1b6b.js": "/yuvalim/precache-manifest.7e6680d986c7d7f9ba2dfe89738c1b6b.js",
+    "service-worker.js": "/yuvalim/service-worker.js",
+    "static/css/main.8abff518.chunk.css.map": "/yuvalim/static/css/main.8abff518.chunk.css.map",
+    "static/js/2.a37a5020.chunk.js.LICENSE.txt": "/yuvalim/static/js/2.a37a5020.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.baf2ff1a.js",
+    "static/js/2.a37a5020.chunk.js",
+    "static/css/main.8abff518.chunk.css",
+    "static/js/main.bcb679c9.chunk.js"
+  ]
+}
