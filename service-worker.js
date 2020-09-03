@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/yuvalim/precache-manifest.7e6680d986c7d7f9ba2dfe89738c1b6b.js"
+  "/yuvalim/precache-manifest.e819a1ea094fe1d0ee7c99771f784dc6.js"
 );
 
 self.addEventListener('message', (event) => {
