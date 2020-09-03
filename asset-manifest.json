@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/yuvalim/static/js/main.f3ecbd78.chunk.js",
-    "main.js.map": "/yuvalim/static/js/main.f3ecbd78.chunk.js.map",
+    "main.js": "/yuvalim/static/js/main.e2e6d467.chunk.js",
+    "main.js.map": "/yuvalim/static/js/main.e2e6d467.chunk.js.map",
     "runtime-main.js": "/yuvalim/static/js/runtime-main.baf2ff1a.js",
     "runtime-main.js.map": "/yuvalim/static/js/runtime-main.baf2ff1a.js.map",
-    "static/js/2.62989a5f.chunk.js": "/yuvalim/static/js/2.62989a5f.chunk.js",
-    "static/js/2.62989a5f.chunk.js.map": "/yuvalim/static/js/2.62989a5f.chunk.js.map",
+    "static/js/2.a4de12bf.chunk.js": "/yuvalim/static/js/2.a4de12bf.chunk.js",
+    "static/js/2.a4de12bf.chunk.js.map": "/yuvalim/static/js/2.a4de12bf.chunk.js.map",
     "index.html": "/yuvalim/index.html",
-    "precache-manifest.f89179977c49ddea35d7b252b7408aa1.js": "/yuvalim/precache-manifest.f89179977c49ddea35d7b252b7408aa1.js",
+    "precache-manifest.31bb2a4dccb12709500d7b2a05af2505.js": "/yuvalim/precache-manifest.31bb2a4dccb12709500d7b2a05af2505.js",
     "service-worker.js": "/yuvalim/service-worker.js",
-    "static/js/2.62989a5f.chunk.js.LICENSE.txt": "/yuvalim/static/js/2.62989a5f.chunk.js.LICENSE.txt"
+    "static/js/2.a4de12bf.chunk.js.LICENSE.txt": "/yuvalim/static/js/2.a4de12bf.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.baf2ff1a.js",
-    "static/js/2.62989a5f.chunk.js",
-    "static/js/main.f3ecbd78.chunk.js"
+    "static/js/2.a4de12bf.chunk.js",
+    "static/js/main.e2e6d467.chunk.js"
   ]
 }
